@@ -32,3 +32,46 @@ python FILE_NAME.py
 ```
 
 Remember to adjust `max_new_tokens` for controlling the length of generated text.
+
+## Output 
+
+<div style="display: flex;">
+  
+  <div style="flex: 50%; padding: 5px; border: 1px solid black;">
+    
+    juli
+    alayah
+    maycen
+    angelyn
+    kaisha
+    merick
+    kamar
+    jayana
+    jemir
+    alyaan
+    mareli
+    maycie
+    angely
+    anniyah
+    shayde
+    sona
+    adian
+    
+  </div>
+
+  <div style="flex: 50%; padding: 5px; border: 1px solid black;">
+    
+    KING RICHARD III:
+    The law be made of boar
+    Upon my ready that hath bar happily quick.
+  
+    SICINIUS:
+    If, I can my fached, when must outs
+    Make it is covert now in a grief,
+    Evencious time in overs, and the news!
+    
+    SICINIUS:
+    Nay, meaning she course to up; and the tyrant in's norfolk.
+  </div>
+</div>
+The names were generated after training the model with the names.txt file and the Shakespeare text was generated after training the model with input.txt file.
